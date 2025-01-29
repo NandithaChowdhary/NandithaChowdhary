@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandithachowdhary&label=Profile%20views&color=0e75b6&style=flat" alt="nandithachowdhary" /> </p>
 
-- 🌱 I’m currently learning **Flutter,react ,vue**
+- 🌱 I’m currently learning **Qlik, Looker, Microsoft Power Platform**
 
-- 📫 How to reach me **nandithachowdharyyarava@gmail.com**
+- 📫 How to reach me **ynandithachowdhary@gmail.com**
 
 - ⚡ Fun fact **I like talking about celestial bodies**
 
