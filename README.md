@@ -5,6 +5,10 @@
 
 - 🌱 I’m currently learning **Qlik, Looker, Microsoft Power Platform**
 
+- Data visualization tools : **Power BI, Tableau**
+
+- Programing Languages: **SQL, Python, R**
+
 - 📫 How to reach me **ynandithachowdhary@gmail.com**
 
 - ⚡ Fun fact **I like talking about celestial bodies**
